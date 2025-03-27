@@ -29,7 +29,14 @@ Organize the `/home/analyst` directory by making specific changes to its structu
       
 ![image](https://github.com/user-attachments/assets/6d024c28-3ac3-4f49-91bb-15720cbb45a4)
 
-  - Confirmed using command `ls /home/analyst/reports` 
+Confirmed using command `ls /home/analyst/reports` 
+
+<h3>Remove a File</h3>
+
+  - Remove the `tempnotes.txt` file from the `/home/analyst/notes` directory
+    - using command `rm tempnotes.txt`
+![image](https://github.com/user-attachments/assets/d3d945cb-696c-4d03-81d6-3553d40c2e32)
+
 
 
 
