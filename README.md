@@ -8,21 +8,29 @@ Organize the `/home/analyst` directory by making specific changes to its structu
 
 <h3>Create a Directorey</h3>
 
-  - Create a new subdirectory called logs in the /home/analyst directory.
+  - Create a new subdirectory called logs in the `/home/analyst` directory.
     - Using command `mkdir logs`
 ![Screenshot 2025-03-26 223954](https://github.com/user-attachments/assets/4d021666-9d57-4c15-9f7b-402a0b060c29)
 
 <h3>Remove a Directory</h3>
 
-  - Remove the /home/analyst/temp directory.
+  - Remove the `/home/analyst/temp` directory.
     - using command `rmdir temp`
 ![Screenshot 2025-03-26 224605](https://github.com/user-attachments/assets/7a71ecaa-d195-484d-b476-8d19ba8c3915)
 
 <h3>Move a File</h3>
 
-  - Navigate to the /home/analyst/notes directory.
+  - Navigate to the `/home/analyst/notes` directory.
     - using command `cd notes`
 ![image](https://github.com/user-attachments/assets/8f95d254-274e-49d9-8306-fe16ccfaf821)
+
+  - Move the `Q3patches.txt` file from the `/home/analyst/notes` directory to the `/home/analyst/reports` directory.
+    - using command `mv Q3patches.txt /home/analyst/reports/`
+      
+![image](https://github.com/user-attachments/assets/6d024c28-3ac3-4f49-91bb-15720cbb45a4)
+
+  - Confirmed using command `ls /home/analyst/reports` 
+
 
 
 
