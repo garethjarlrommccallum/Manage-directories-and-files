@@ -51,10 +51,18 @@ Organize the `/home/analyst` directory by making specific changes to its structu
 <h3>Edit a File</h3>
 
   - Use the nano text editor to edit the tasks.txt file
+    - Open the `tasks.txt` file that is located in the `notes` directory.
+    - Input command `nano tasks.txt`
 
+![image](https://github.com/user-attachments/assets/43a3383d-48bb-4a66-a0d0-2dd1e706b931)
 
+    Type   'Completed tasks
+    1. Managed file structure in /home/analyst'
 
+Press CTRL=x to exut nano.
 
+<h1>Conclusion</h1>
 
+I have gained practical experience with basic Linux Bash shell commands, including creating and removing directories, copying, moving, and deleting files, as well as editing files using the nano text editor.
 
 
