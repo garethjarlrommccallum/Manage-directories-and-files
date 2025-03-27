@@ -10,14 +10,12 @@ Organize the `/home/analyst` directory by making specific changes to its structu
 
   - Create a new subdirectory called logs in the /home/analyst directory.
     - Using command `mkdir logs`
-
 ![Screenshot 2025-03-26 223954](https://github.com/user-attachments/assets/4d021666-9d57-4c15-9f7b-402a0b060c29)
 
 <h3>Remove a Directory</h3>
 
   - Remove the /home/analyst/temp directory.
     - using command `rmdir temp`
-
 ![Screenshot 2025-03-26 224605](https://github.com/user-attachments/assets/7a71ecaa-d195-484d-b476-8d19ba8c3915)
 
 <h3>Move a File</h3>
